@@ -1,0 +1,6 @@
+{
+  "name": "Al-Miraj | المعراج",
+  "description": "Al-Miraj (المعراج) - Premium Libyan Fashion Mobile E-Commerce & Luxury Shopping Experience",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
